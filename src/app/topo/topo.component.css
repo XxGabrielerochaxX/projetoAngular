@@ -1,0 +1,44 @@
+.imagemtec {
+    height: 10%;
+    width: 10%;
+    left: 20%;
+}
+
+.nav-item-inicio {
+    margin-left: 80px;
+}
+
+.navtop {
+    height: 35px;
+    text-align: center;
+    background-color: blanchedalmond;
+}
+
+.navtext {
+
+    padding-top: 1%;
+
+}
+
+
+.btn {
+
+    color: white;
+    background-color: #6aa8de;
+    border-color: #6aa8de;
+
+}
+
+
+
+.nav-item-info{
+    width: 250px;
+}
+
+.nav-item-lo{
+
+    font-size: 20px;
+}
+.nav-item-ca{
+    font-size: 20px;
+}
